@@ -14,3 +14,9 @@
   cursor: pointer;
   border-radius: 4px;
 }
+
+.contact-phone {
+  margin-left: 10px;
+  color: #555;
+}
+
